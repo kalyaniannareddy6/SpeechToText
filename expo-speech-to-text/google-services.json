@@ -1,0 +1,29 @@
+{
+  "project_info": {
+  "project_number": "908702461517",
+  "project_id": "speech-9fa83",
+  "storage_bucket": "speech-9fa83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908702461517:android:2e6dba0e599adb24f97604",
+        "android_client_info": {
+          "package_name": "com.chelseafarley.expospeechtotext"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3xW8qfUTLRdwGTHLwGUTQgl8ROi-o6nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
